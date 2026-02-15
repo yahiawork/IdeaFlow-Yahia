@@ -1,4 +1,4 @@
-\
+
 @echo off
 setlocal
 set SRC=src
